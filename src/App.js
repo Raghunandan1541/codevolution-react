@@ -2,7 +2,7 @@ import './App.css';
 
 import './appStyles.css';
 import styles from './appStyles.module.css';
-// import MainComponent from './components/MainComponent';
+// import MainComponent from './component/MainComponent';
 
 function App() {
 	return (

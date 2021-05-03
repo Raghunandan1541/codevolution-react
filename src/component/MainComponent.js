@@ -1,18 +1,18 @@
 import React from 'react'
 
-// import Inline from './components/Inline';
-// import NameList from './components/NameList';
-// import Stylesheet from './components/Stylesheet';
-// import EventBind from './components/EventBind';
-// import ParentComponent from './components/ParentComponent';
-// import UserGreeting from './components/UserGreeting';
-// import ClassClick from './components/ClassClick';
-// import FunctionClick from './components/FunctionClick';
-// import Counter from './components/Counter';
-// import Greet from "./components/Greet";
-// import Welcome from "./components/Welcome";
-// import Hello from "./components/Hello";
-// import Message from "./components/Message";
+// import Inline from './Inline';
+// import NameList from './NameList';
+// import Stylesheet from './Stylesheet';
+// import EventBind from './EventBind';
+// import ParentComponent from './ParentComponent';
+// import UserGreeting from './UserGreeting';
+// import ClassClick from './ClassClick';
+// import FunctionClick from './FunctionClick';
+// import Counter from './Counter';
+// import Greet from "./Greet";
+// import Welcome from "./Welcome";
+// import Hello from "./Hello";
+// import Message from "./Message";
 
 function MainComponent() {
 	return (
