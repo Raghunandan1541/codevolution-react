@@ -1,32 +1,17 @@
-// import logo from './logo.svg';
 import './App.css';
-// import ClassClick from './components/ClassClick';
-// import FunctionClick from './components/FunctionClick';
-// import Counter from './components/Counter';
-// import Greet from "./components/Greet";
-// import Welcome from "./components/Welcome";
-// import Hello from "./components/Hello";
-// import Message from "./components/Message";
+
+import './appStyles.css';
+import styles from './appStyles.module.css';
+// import MainComponent from './components/MainComponent';
 
 function App() {
 	return (
 		<div className="App">
-		{/* <FunctionClick /> */}
-		{/* <ClassClick /> */}
-			{/* <Counter /> */}
-			{/* <Message /> */}
-			{/* <Greet name="Rick">
-				<p>This is children props</p>
-			</Greet>
-			<Greet name="Ryo">
-				<button>Hunt</button>
-			</Greet> */}
-			{/* <Greet name="Diana" heroName="Killer Girl" /> */}
-
-			{/* <Welcome name="Rick" />
-			<Welcome name="Ryo" /> */}
-			{/* <Welcome name="Diana" heroName="Killer Girl" />  */}
-			{/* <Hello /> */}
+			<h1 className='error' >Error</h1>
+			<h1 className={styles.success} >Success</h1>
+			
+			
+			{/* <MainComponent /> */}
 		</div>
 	);
 }
